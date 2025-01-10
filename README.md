@@ -71,7 +71,7 @@ Set up your MySQL database and make sure the backend can connect to it. Update t
 ##### Backend:
 1. Start the backend server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ### Usage
